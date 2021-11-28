@@ -1,0 +1,10 @@
+2021-11-26 00:45:19.8085 ERROR Some ids are not valid in a collection
+2021-11-26 00:46:53.9444 ERROR Some ids are not valid in a collection
+2021-11-26 00:47:20.4245 ERROR Some ids are not valid in a collection
+2021-11-26 00:47:21.9079 ERROR Some ids are not valid in a collection
+2021-11-26 00:53:01.5065 ERROR Some ids are not valid in a collection
+2021-11-26 00:53:19.4716 ERROR Some ids are not valid in a collection
+2021-11-26 00:54:27.0849 ERROR Some ids are not valid in a collection
+2021-11-26 00:54:46.8604 INFO Company with Id:3fa85f64-5717-4562-b3fc-2c963f66afa6 doesn't exit in the database
+2021-11-26 00:56:56.2680 ERROR Parameter ids is null
+2021-11-26 00:57:25.1258 ERROR Some ids are not valid in a collection

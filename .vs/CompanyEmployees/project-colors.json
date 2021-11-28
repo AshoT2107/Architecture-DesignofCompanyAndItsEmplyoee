@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e6ea5494-72bf-4c07-8067-f996973c00a8": {
+      "ProjectGuid": "e6ea5494-72bf-4c07-8067-f996973c00a8",
+      "DisplayName": "CompanyEmployees",
+      "ColorIndex": 0
+    },
+    "18b53b73-826a-45db-9ebe-39309c6b308a": {
+      "ProjectGuid": "18b53b73-826a-45db-9ebe-39309c6b308a",
+      "DisplayName": "Repository",
+      "ColorIndex": 1
+    },
+    "2dd04dc5-44f7-4f92-90e8-20e0bf6a40c8": {
+      "ProjectGuid": "2dd04dc5-44f7-4f92-90e8-20e0bf6a40c8",
+      "DisplayName": "Entities",
+      "ColorIndex": 2
+    },
+    "b0344f4e-0ffb-4c13-8b70-145fdabd66dc": {
+      "ProjectGuid": "b0344f4e-0ffb-4c13-8b70-145fdabd66dc",
+      "DisplayName": "Contracts",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

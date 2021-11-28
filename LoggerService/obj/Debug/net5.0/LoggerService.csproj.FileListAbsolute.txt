@@ -1,0 +1,17 @@
+C:\Users\ashot\source\repos\CompanyEmployees\LoggerService\bin\Debug\net5.0\LoggerService.deps.json
+C:\Users\ashot\source\repos\CompanyEmployees\LoggerService\bin\Debug\net5.0\LoggerService.dll
+C:\Users\ashot\source\repos\CompanyEmployees\LoggerService\bin\Debug\net5.0\ref\LoggerService.dll
+C:\Users\ashot\source\repos\CompanyEmployees\LoggerService\bin\Debug\net5.0\LoggerService.pdb
+C:\Users\ashot\source\repos\CompanyEmployees\LoggerService\bin\Debug\net5.0\Contracts.dll
+C:\Users\ashot\source\repos\CompanyEmployees\LoggerService\bin\Debug\net5.0\Contracts.pdb
+C:\Users\ashot\source\repos\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.csproj.AssemblyReference.cache
+C:\Users\ashot\source\repos\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashot\source\repos\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\ashot\source\repos\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfo.cs
+C:\Users\ashot\source\repos\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\ashot\source\repos\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CopyComplete
+C:\Users\ashot\source\repos\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.dll
+C:\Users\ashot\source\repos\CompanyEmployees\LoggerService\obj\Debug\net5.0\ref\LoggerService.dll
+C:\Users\ashot\source\repos\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.pdb
+C:\Users\ashot\source\repos\CompanyEmployees\LoggerService\bin\Debug\net5.0\Entities.dll
+C:\Users\ashot\source\repos\CompanyEmployees\LoggerService\bin\Debug\net5.0\Entities.pdb
